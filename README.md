@@ -110,3 +110,7 @@ Essa PoC valida o uso de soluções IoT para **monitoramento esportivo**, podend
 - Histórico de desempenho das jogadoras;
 - Integração com banco de dados;
 - Painéis comparativos em tempo real.
+
+Link do vídeo:
+https://www.youtube.com/watch?v=mKrK1VIoN04
+
